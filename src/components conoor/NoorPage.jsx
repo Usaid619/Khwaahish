@@ -125,7 +125,7 @@ const NoorPage = () => {
 {/* SECTION-8 */}
 <div className='flex gap-6 flex-col items-center w-full py-6'>
   <div className='w-max flex justify-center items-end gap-4'>
-    <img className='h-[60px] w-[60px] md:h-[100px] md:w-[100px]' src="https://emcgtdx36wv.exactdn.com/storage/2023/06/quotation.svg" alt="" />
+    <img className='h-[60px] w-[60px] md:h-[100px] md:w-[100px]' src="https://emcgtdx36wv.exactdn.com/storage/2023/06/quotation.svg" alt=""/>
     <h4 className='relative tracking-[4px] text-xl text-gray-500
     
      md:after:content-[""] md:after:h-[1px] md:after:w-14 md:after:bg-black md:after:absolute md:after:right-0 md:after:top-[70%] md:after:translate-x-[120%] md:after:translate-y-[-50%]'>Customer Testimonials</h4>
